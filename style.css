@@ -1,0 +1,181 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.maateen.me/mukti/font.css');
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+*{margin:0;padding:0;}
+body {
+  background-color:#fcfcff;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+}
+h2{
+  font-family: 'CharukolaUltraLight', sans-serif;
+  color:#138D75;
+  padding-top: 20px;
+  padding-bottom: 12px;
+}
+h3{
+  font-family: 'CharukolaUltraLight', sans-serif;
+  color:#117A65;
+  padding-top: 10px;
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+}
+img{
+  width: 100%;
+}
+p{
+  text-align: justify;
+  font-family:'Mukti', sans-serif; 
+}
+/*main header goes from here*/
+.wrapper{
+  background: #ececec;
+}
+
+.container h1{
+  text-align: center;
+  color: darkolivegreen;
+  margin-top: 15px;
+}
+.container p{
+  color:grey;
+  text-align: center;
+  font-size: 15px;
+}
+/* main header end from herer*/
+/*profile start from here*/
+.wrappertwo{
+  width: 90%;
+  margin: 0 auto;
+  margin-top:40px;
+}
+.profile img{
+  float:left;
+  width: 100px;
+  height:100px;
+  border-radius: 50%;
+  margin-right: 7px;
+}
+.profile h2{
+  font-size: 20px;
+}
+.profile p{
+  font-size: 15px;
+}
+/*profile end from here*/
+/* basic introduction start from here*/
+.wrapperthree{
+  width:90%;
+  margin: 0 auto;
+  margin-top:25px;
+  margin-bottom: 20px;
+}
+.firstcontent p{
+  border-left: 5px solid #138d75;
+  font-family: 'Mukti', sans-serif;
+  font-weight: bold;
+  font-size: 15px;
+  padding-left: 6px;
+  text-align: justify;
+}
+.wrapperfour{
+  width:90%;
+  margin: 0 auto;
+  margin-top: 45px;
+}
+
+/* main content goes from here*/
+.contentr a{
+  text-decoration: none;
+  color:#c95844;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+
+
+.home{
+  margin-top: 30px;
+  margin-bottom: 50px;
+  float:left;
+}
+
+
+.alter{
+  width:90%;
+  margin:0 auto;
+  margin-top: 30px;
+}
+.alter a{
+  text-decoration: none;
+  padding: 5px 20px;;
+  background: #2D9961;
+  color:#fff;
+  transition: 1.5s ease;
+}
+.alter a:hover{
+  color:tomato;
+}
+.privious{
+  float: left;
+}
+.next{
+  float:right;
+}
+
+
+
+
+
+/* 'CharukolaUltraLight', sans-serif;     */
+
+/*   'Mukti', sans-serif;     */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*@import url('https://fonts.googleapis.com/css?family=Jura');
+@import url('https://fonts.googleapis.com/css?family=Economica');
+@import url('https://fonts.googleapis.com/css?family=Marck+Script');
+@import url('https://fonts.maateen.me/charukola-ultra-light/font.css');
+@import url('https://fonts.maateen.me/mukti/font.css');*/
+
+
+
+/*English fonts*/
+/*  'Jura', sans-serif;   */
+/*  'Economica', sans-serif;  */
+/*   'Marck Script', cursive;   */
+/*  Bangla fonts     */
+/*  'CharukolaUltraLight', sans-serif;    */
+/*   font-family: 'Mukti', sans-serif;   */
+/*      */
